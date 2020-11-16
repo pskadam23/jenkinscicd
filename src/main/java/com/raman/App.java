@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello From Jenkins Git-Job proj" );
+        System.out.println( "Hello From Git hub and maven" );
     }
 }
